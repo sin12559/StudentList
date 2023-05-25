@@ -24,7 +24,7 @@ public class StudentArray {
         Student[] students = new Student[5];
 
         // Populating the array with classmates' names
-        students[0] = new Student("John");
+        students[0] = new Student("Johnny");
         students[1] = new Student("Emily");
         students[2] = new Student("Michael");
         students[3] = new Student("Sarah");
